@@ -1,45 +1,24 @@
 # The Site Settings
 # v2.0
 # https://github.com/cotes2020/jekyll-theme-chirpy
-# © 2017-2019 Cotes Chung
-# MIT licensed
-
-
-# jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
 
-title: Chirpy                          # the main title
+title: Thomas's Conner                          # the main title
 
-tagline: A text-focused Jekyll theme.  # it will display as the sub-title
+tagline: Thomas's personal blog.  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
-
+  A simple and minimal personal blog.
+  
 # Replace with your domain, e.g. 'https://username.github.io'
-url: 'protocol://domain'
+url: 'http://thomasabc.xyz'
 
-author: your_full_name                  # change to your full name
+author: HaHoang                  # change to your full name
 
 avatar: /assets/img/sample/avatar.jpg   # support internet resources
 
 github:
-  username: github_username             # change to your github username
-
-twitter:
-  username: twitter_username            # change to your twitter username
-
-social:
-  name: your_full_name                  # it will shows as the copyright owner in Footer
-  email: example@doamin.com             # change to your email address
-  links:
-    # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+  username: yourtallent             # change to your github username
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 
@@ -60,7 +39,6 @@ google_analytics:
   # superProxy baseURL and URL, only valid when `google_analytics.pv` is set to 'true'
   proxy_baseurl: ''
   proxy_url: ''
-
 
 disqus:
   comments: false  # boolean type, the global switch for posts comments.
