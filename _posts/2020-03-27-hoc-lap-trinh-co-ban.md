@@ -5,7 +5,7 @@ tags: [học lập trình]
 ---
 # Giới thiệu
 
-Cô liệt kê danh sách bài tập ở đây, theo thứ tự các em đã, đang và sẽ được thực hành trên lớp. Cô sẽ mở máy chấm từ 19:00 hàng ngày ở địa chỉ [cbners.ddns.net](http://cbners.ddns.net)
+Cô liệt kê danh sách bài tập ở đây, theo thứ tự các em đã, đang và sẽ được thực hành trên lớp. Cô sẽ mở máy chấm từ 19:00 hàng ngày ở địa chỉ [cbners.ddns.net](http://cbners.ddns.net). Tài khoản đăng nhập giống như tài khoản trên lớp nhé.
 
 Cô hy vọng các em tìm được niềm vui trong quá trình học thuật toán và lập trình, đừng quá lo lắng về điểm số. Trong quá trình học lập trình cơ bản, các em có thể ít nhiều gặp khó khăn, nhưng hãy bình tâm, dành thời gian suy nghĩ thêm, làm lại các bài tập (tốt nhất là theo thứ tự mà cô đề xuất). Những bài tập các em làm rồi, các em không nhất thiết phải làm lại. 
 
