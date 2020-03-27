@@ -3,7 +3,7 @@ title: "Hướng dẫn học lập trình cơ bản với C++"
 categories: [Học lập trình, C++]
 tags: [học lập trình]
 ---
-## Giới thiệu
+# Giới thiệu
 
 Cô liệt kê danh sách bài tập ở đây, theo thứ tự các em đã, đang và sẽ được thực hành trên lớp. Cô sẽ mở máy chấm từ 19:00 hàng ngày ở địa chỉ [cbners.ddns.net](http://cbners.ddns.net)
 
@@ -11,9 +11,9 @@ Cô hy vọng các em tìm được niềm vui trong quá trình học thuật t
 
 Các em có thể hỏi về các nội dung liên quan qua [facebook của cô](https://www.facebook.com/hoang.ha.3914)
 
-## Danh sách bài tập thực hành dành cho lớp 10T1
+# Danh sách bài tập thực hành dành cho lớp 10T1
 
-### 1. Kiểu dữ liệu, biến, hằng, phép gán, phép toán
+## 1. Kiểu dữ liệu, biến, hằng, phép gán, phép toán
 
 * TONGAB
 * TINHTOAN
@@ -23,7 +23,7 @@ Các em có thể hỏi về các nội dung liên quan qua [facebook của cô]
 * NHIETDO
 * NHIETDO1
 
-### 2. Cấu trúc rẽ nhánh
+## 2. Cấu trúc rẽ nhánh
 
 * MAX2
 * CHANLE
@@ -35,9 +35,9 @@ Các em có thể hỏi về các nội dung liên quan qua [facebook của cô]
 * DAY
 * DIGIT
 
-### 3. Cấu trúc lặp
+## 3. Cấu trúc lặp
 
-#### 3.1. Lặp P1
+### 3.1. Lặp P1
 
 * 1TON
 * ATOB
@@ -55,7 +55,7 @@ Các em có thể hỏi về các nội dung liên quan qua [facebook của cô]
 * NGUYENTO
 * MAXX
 
-#### 3.2. Lặp P2
+### 3.2. Lặp P2
 
 * DAONGUOC
 * AMSTRONG
@@ -63,7 +63,7 @@ Các em có thể hỏi về các nội dung liên quan qua [facebook của cô]
 * PALINDROME
 * DOCSO
 
-#### 3.3. Lặp P3
+### 3.3. Lặp P3
 
 * LKNGUYENTO
 * LKSOHOANHAO
@@ -75,9 +75,9 @@ Các em có thể hỏi về các nội dung liên quan qua [facebook của cô]
 * RETRIANGLE
 * LETRIANGLE
 
-### 4. Kiểu mảng
+## 4. Kiểu mảng
 
-#### 4.1. Mảng một chiều
+### 4.1. Mảng một chiều
 
 * REVERSE
 * SUMTION
@@ -92,5 +92,5 @@ Các em có thể hỏi về các nội dung liên quan qua [facebook của cô]
 * DECTOBIN
 * SEARCHING
 
-#### 4.2. Mảng hai chiều
+### 4.2. Mảng hai chiều
 
