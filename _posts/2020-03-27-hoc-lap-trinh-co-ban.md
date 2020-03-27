@@ -77,7 +77,7 @@ Các em có thể hỏi về các nội dung liên quan qua [facebook của cô]
 
 ### 4. Kiểu mảng
 
-#### Mảng một chiều
+#### 4.1. Mảng một chiều
 
 * REVERSE
 * SUMTION
@@ -92,5 +92,5 @@ Các em có thể hỏi về các nội dung liên quan qua [facebook của cô]
 * DECTOBIN
 * SEARCHING
 
-#### Mảng hai chiều
+#### 4.2. Mảng hai chiều
 
