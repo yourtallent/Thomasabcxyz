@@ -77,7 +77,7 @@ Các em có thể hỏi về các nội dung liên quan qua [facebook của cô]
 
 ### 3.3. Lặp P3
 
-[Link bài tập tối thiểu]()
+[Link bài tập tối thiểu](https://www.hackerrank.com/cau-truc-lap-3)
 
 * LKNGUYENTO
 * LKSOHOANHAO
