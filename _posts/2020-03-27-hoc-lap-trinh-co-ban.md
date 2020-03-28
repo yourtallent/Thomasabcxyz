@@ -47,6 +47,8 @@ Các em có thể hỏi về các nội dung liên quan qua [facebook của cô]
 
 ### 3.1. Lặp P1
 
+[Link bài tập tối thiểu](https://www.hackerrank.com/cau-truc-lap-1)
+
 * 1TON
 * ATOB
 * DOWNTO
