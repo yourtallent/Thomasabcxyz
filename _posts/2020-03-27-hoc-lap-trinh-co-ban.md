@@ -19,7 +19,7 @@ Các em có thể hỏi về các nội dung liên quan qua [facebook của cô]
 
 ## 1. Kiểu dữ liệu, biến, hằng, phép gán, phép toán
 
-[Link bài tập](https://www.hackerrank.com/co-ban-1)
+[Link bài tập tối thiểu](https://www.hackerrank.com/co-ban-1)
 
 * TONGAB
 * TINHTOAN
@@ -31,7 +31,7 @@ Các em có thể hỏi về các nội dung liên quan qua [facebook của cô]
 
 ## 2. Cấu trúc rẽ nhánh
 
-[Link bài tập](https://www.hackerrank.com/cau-truc-re-nhanh)
+[Link bài tập tối thiểu](https://www.hackerrank.com/cau-truc-re-nhanh)
 
 * MAX2
 * CHANLE
@@ -87,7 +87,7 @@ Các em có thể hỏi về các nội dung liên quan qua [facebook của cô]
 
 ### 4.1. Mảng một chiều
 
-[Link bài tập](https://www.hackerrank.com/mang-mot-chieu)
+[Link bài tập tối thiểu](https://www.hackerrank.com/mang-mot-chieu)
 
 * REVERSE
 * SUMTION
