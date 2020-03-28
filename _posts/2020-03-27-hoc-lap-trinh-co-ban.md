@@ -107,6 +107,8 @@ Các em có thể hỏi về các nội dung liên quan qua [facebook của cô]
 * INSERTX
 * DECTOBIN
 * SEARCHING
+* **DELETEX (Bài tập làm thêm)**
+* **SELECTIONSORT (Bài tập làm thêm)**
 
 ### 4.2. Mảng hai chiều
 
