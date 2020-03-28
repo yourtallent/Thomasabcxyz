@@ -67,6 +67,8 @@ Các em có thể hỏi về các nội dung liên quan qua [facebook của cô]
 
 ### 3.2. Lặp P2
 
+[Link bài tập tối thiểu](https://www.hackerrank.com/cau-truc-lap-2)
+
 * DAONGUOC
 * AMSTRONG
 * SODAONGUOC
@@ -74,6 +76,8 @@ Các em có thể hỏi về các nội dung liên quan qua [facebook của cô]
 * DOCSO
 
 ### 3.3. Lặp P3
+
+[Link bài tập tối thiểu]()
 
 * LKNGUYENTO
 * LKSOHOANHAO
