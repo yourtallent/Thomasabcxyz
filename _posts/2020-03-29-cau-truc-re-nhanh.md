@@ -27,4 +27,21 @@ Ví dụ 2: Nếu k > 10 thì kết thúc chương trình
 ```cpp
 if (k>10) return 0;
 ```
+
 # 2. Cấu trúc switch
+
+Ta có thể biểu diễn các cấu trúc if - else lồng nhau căn cứ vào giá trị biến bằng cấu trúc switch...case như sau.
+**Ví dụ:** Nhập vào một số nguyên N (1<=N<=7). Hãy thông báo thứ tương ứng với số N đó theo quy tắc: 1 - Sun, 2 - Mon, 3 - Tue, 4 - Wed, 5 - Thu, 6 - Fri, 7 - Sat
+
+```cpp
+int n; cin >> n;
+switch(n){
+	case 1: cout << "Sun"; break;
+	case 2: cout << "Mon"; break;
+	case 3: cout << "Tue"; break;
+	case 4: cout << "Wed"; break;
+	case 5: cout << "Thu"; break;
+	case 6: cout << "Fri"; break;
+	default: cout << "Sat";
+}
+```
