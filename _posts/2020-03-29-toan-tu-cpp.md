@@ -10,7 +10,9 @@ Một toán tử là một biểu tượng, mà nói cho trình biên dịch th�
 * Toán tử so sánh bit
 * Toán tử gán
 * Toán tử hỗn hợp
+
 # 1. Toán tử số học
+
 Giả sử biến A giữ giá trị 10, biến B giữ 20 thì:
 
 | Toán tử | Miêu tả | Ví dụ |
@@ -24,7 +26,9 @@ Giả sử biến A giữ giá trị 10, biến B giữ 20 thì:
 | -- | Giảm giá trị toán hạng đi một đơn vị |A-- kết quả là 9
 
 (Nguồn vietjack)
+
 # 2. Toán tử quan hệ
+
 Toán tử quan hệ thể hiện mối quan hệ giữa hai biểu thức, giá trị. Các toán tử quan hệ chính: >,<,>=,<=,==,!=
 
 |Toán tử|Miêu tả|Ví dụ|
@@ -37,6 +41,7 @@ Toán tử quan hệ thể hiện mối quan hệ giữa hai biểu thức, giá
 |<=|Kiểm tra nếu toán hạng bên trái có giá trị nhỏ hơn hoặc bằng toán hạng bên phải hay không. Nếu đúng là true.|(A <= B) là true|
 
 # 3. Toán tử logic
+
 Giả sử biến A có giá trị 1 (true) và biến B có giá trị 0 (false):
 
 |Toán tử|Miêu tả|Ví dụ|
@@ -46,6 +51,7 @@ Giả sử biến A có giá trị 1 (true) và biến B có giá trị 0 (false
 |!|Được gọi là toán tử NOT (phủ định).  Sử dụng để đảo ngược lại trạng thái logic của toán hạng đó. Nếu điều kiện toán hạng là true thì phủ định nó sẽ là false.|!(A && B) là true.|
 
 # 4. Toán tử gán
+
 Thực hiện việc gán giá trị. Trong C++ có nhiều thể hiện của phép gán, nhưng cơ bản hoạt động của nó giống như phép gán được mô tả trong bài trước.
 
 |Toán tử|Miêu tả|Ví dụ|
