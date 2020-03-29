@@ -9,7 +9,7 @@ Cô liệt kê danh sách bài tập ở đây, theo thứ tự các em đã, đ
 
 Tài khoản đăng nhập: các em phải tạo tài khoản tại trang [Hackerrank](https://www.hackerrank.com). Có thể đăng nhập ngay bằng tài khoản Facebook hoặc Gmail sẽ nhanh hơn.
 
-Thuật toán và lập trình là một kĩ năng cơ bản của thời đại công nghệ, nếu có nền tảng tốt các em sẽ có cơ hội phát triển cao hơn ở các bậc học sau này. Cô hy vọng các em tìm được niềm vui trong quá trình học thuật toán và lập trình, đừng quá lo lắng về điểm số. Trong quá trình học lập trình cơ bản, các em có thể ít nhiều gặp khó khăn, nhưng hãy bình tâm, dành thời gian suy nghĩ thêm, làm lại các bài tập (tốt nhất là theo thứ tự mà cô đề xuất).  
+Thuật toán và lập trình là kĩ năng cơ bản của thời đại công nghệ, nếu có nền tảng tốt các em sẽ có cơ hội phát triển cao hơn ở các bậc học sau này. Cô hy vọng các em tìm được niềm vui trong quá trình học thuật toán và lập trình, đừng quá lo lắng về điểm số. Trong quá trình học lập trình cơ bản, các em có thể ít nhiều gặp khó khăn, nhưng hãy bình tâm, dành thời gian suy nghĩ thêm, làm lại các bài tập (tốt nhất là theo thứ tự mà cô đề xuất).  
 
 Những bài tập các em làm rồi, các em không nhất thiết phải làm lại. Nếu bạn nào còn cảm thấy chưa nhớ, chưa sử dụng thành thục được cú pháp ngôn ngữ thì nên làm lại các bài lần lượt từ đầu.
 
