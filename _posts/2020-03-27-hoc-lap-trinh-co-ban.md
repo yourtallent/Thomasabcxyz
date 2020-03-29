@@ -51,6 +51,8 @@ Các em có thể hỏi về các nội dung liên quan qua [facebook của cô]
 
 ## 3. Cấu trúc lặp
 
+[Lí thuyết cấu trúc lặp](http://thomasabc.xyz/posts/cau-truc-lap/)
+
 ### 3.1. Lặp P1
 
 [Link bài tập tối thiểu](https://www.hackerrank.com/cau-truc-lap-1)
