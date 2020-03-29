@@ -99,6 +99,8 @@ Các em có thể hỏi về các nội dung liên quan qua [facebook của cô]
 
 ## 4. Kiểu mảng
 
+[Lí thuyết kiểu mảng 1 chiều, 2 chiều](http://thomasabc.xyz/posts/kieu-mang/)
+
 ### 4.1. Mảng một chiều
 
 [Link bài tập tối thiểu](https://www.hackerrank.com/mang-mot-chieu)
