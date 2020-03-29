@@ -31,6 +31,7 @@ if (k>10) return 0;
 # 2. Cấu trúc switch
 
 Ta có thể biểu diễn các cấu trúc if - else lồng nhau căn cứ vào giá trị biến bằng cấu trúc switch...case như sau.
+
 **Ví dụ:** Nhập vào một số nguyên N (1<=N<=7). Hãy thông báo thứ tương ứng với số N đó theo quy tắc: 1 - Sun, 2 - Mon, 3 - Tue, 4 - Wed, 5 - Thu, 6 - Fri, 7 - Sat
 
 ```cpp
