@@ -21,6 +21,10 @@ Các em có thể hỏi về các nội dung liên quan qua [facebook của cô]
 
 [Link bài tập tối thiểu](https://www.hackerrank.com/co-ban-1)
 
+[Lí thuyết: kiểu dữ liệu, biến, hằng, phép gán](http://thomasabc.xyz/posts/li-thuyet-cpp-co-ban/)
+
+[Lí thuyết: phép toán trong C++](http://thomasabc.xyz/posts/toan-tu-cpp/)
+
 * TONGAB
 * TINHTOAN
 * HCN
@@ -32,6 +36,8 @@ Các em có thể hỏi về các nội dung liên quan qua [facebook của cô]
 ## 2. Cấu trúc rẽ nhánh
 
 [Link bài tập tối thiểu](https://www.hackerrank.com/cau-truc-re-nhanh)
+
+[Lí thuyết: cấu trúc rẽ nhánh](http://thomasabc.xyz/posts/cau-truc-re-nhanh/)
 
 * MAX2
 * CHANLE
