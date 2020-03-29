@@ -47,7 +47,7 @@ Giả sử biến A có giá trị 1 (true) và biến B có giá trị 0 (false
 |Toán tử|Miêu tả|Ví dụ|
 |--- |--- |--- |
 |&&|Được gọi là toán tử logic AND (và). Nếu cả hai toán tử đều có giá trị khác 0 thì điều kiện trở lên true.|(A && B) là false.|
-|\\|||Được gọi là toán tử logic OR (hoặc). Nếu một trong hai toán tử khác 0, thì điều kiện là true.|(A || B) là true.|
+|\|\||Được gọi là toán tử logic OR (hoặc). Nếu một trong hai toán tử khác 0, thì điều kiện là true.|(A || B) là true.|
 |!|Được gọi là toán tử NOT (phủ định).  Sử dụng để đảo ngược lại trạng thái logic của toán hạng đó. Nếu điều kiện toán hạng là true thì phủ định nó sẽ là false.|!(A && B) là true.|
 
 # 4. Toán tử gán
