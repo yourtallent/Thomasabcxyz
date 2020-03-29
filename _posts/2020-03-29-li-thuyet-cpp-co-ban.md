@@ -50,13 +50,16 @@ Comment của chương trình là các lời diễn giải, giúp cho bất kỳ
 Các biến, không gì khác ngoài các vị trí bộ nhớ được dành riêng để lưu giá trị. Nghĩa là, khi bạn tạo một biến, bạn dành riêng một số không gian trong bộ nhớ cho biến đó.
 ## 2.2. Kiểu dữ liệu nguyên thủy trong C++
 Một số kiểu dữ liệu nguyên thủy phổ biến:
-|  Kiểu dữ liệu|  Từ khóa|   Miền giá trị|
-|--|--| --|
-|  Boolean|  bool (1 byte)|true hoặc false
-|  Ký tự|  char (1 byte)|-127 tới 127 hoặc 0 tới 255
-|  Số nguyên|  int (4 byte)|-2147483648 tới 2147483647
-|  Số thực|  float (4 byte)|+/- 3.4e +/- 38 (~7 chữ số có nghĩa)
-|  Số thực dạng Double|  double (8 byte)|+/- 1.7e +/- 308 (~15 chữ số có nghĩa)
+
+|Kiểu dữ liệu|Từ khóa|
+|--- |--- |
+|Boolean|bool|
+|Ký tự|char|
+|Số nguyên|int|
+|Số thực|float|
+|Số thực dạng Double|double|
+|Kiểu không có giá trị|void|
+
 ## 2.3. Khai báo biến
 Định nghĩa biến trong C/C++ nghĩa là nói cho compiler nơi và lượng bộ nhớ cần tạo để lưu giữ biến đó.
 
