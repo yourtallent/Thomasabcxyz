@@ -101,12 +101,14 @@ Các em có thể hỏi về các nội dung liên quan qua [facebook của cô]
 
 [Lí thuyết kiểu mảng 1 chiều, 2 chiều](http://thomasabc.xyz/posts/kieu-mang/)
 
+[Video bài giảng mảng 1 chiều](https://youtu.be/5bazasTqi3E)
+
 ### 4.1. Mảng một chiều
 
 [Link bài tập tối thiểu](https://www.hackerrank.com/mang-mot-chieu)
 
 * REVERSE
-* SUMTION
+* SUMATION
 * SUMODDS
 * REPLACEMENT
 * FINDMAX
