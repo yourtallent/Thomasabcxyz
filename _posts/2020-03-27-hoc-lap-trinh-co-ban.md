@@ -124,3 +124,16 @@ Các em có thể hỏi về các nội dung liên quan qua [facebook của cô]
 
 ### 4.2. Mảng hai chiều
 
+* [Video bài giảng mảng 2 chiều]()
+
+[Link bài tập tối thiểu](https://www.hackerrank.com/mang-hai-chieu)
+
+* 2DARRAY
+* MATRIXSUM
+* MAINDIAGONAL
+* MINORDIAGONAL
+* SWAPDIAGONAL
+* UPPERMATRIX
+* LOWERMATRIX
+* TRANSPOSE
+
