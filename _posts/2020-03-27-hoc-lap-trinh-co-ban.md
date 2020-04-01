@@ -124,7 +124,7 @@ Các em có thể hỏi về các nội dung liên quan qua [facebook của cô]
 
 ### 4.2. Mảng hai chiều
 
-[Video bài giảng mảng 2 chiều]()
+[Video bài giảng mảng 2 chiều](https://youtu.be/BQqBoKbxAOE)
 
 [Link bài tập tối thiểu](https://www.hackerrank.com/mang-hai-chieu)
 
