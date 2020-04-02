@@ -5,9 +5,9 @@ tags: [học lập trình]
 ---
 # Giới thiệu
 
-Cô liệt kê danh sách bài tập ở đây, theo thứ tự các em đã, đang và sẽ được thực hành trên lớp. Các em có thể làm và nộp bài bất cứ lúc nào tại địa chỉ cô để ở mỗi phần (trang này cô sẽ tiếp tục cập nhật)
+Cô liệt kê danh sách bài tập ở đây, theo thứ tự các em đã, đang và sẽ được thực hành trên lớp. Các em có thể làm và nộp bài bất cứ lúc nào tại địa chỉ cô để ở mỗi phần *(trang này cô sẽ tiếp tục cập nhật)*
 
-Tài khoản đăng nhập: các em phải tạo tài khoản tại trang [Hackerrank](https://www.hackerrank.com). Có thể đăng nhập ngay bằng tài khoản Facebook hoặc Gmail sẽ nhanh hơn.
+Tài khoản đăng nhập: các em phải tạo tài khoản tại trang [Hackerrank](https://www.hackerrank.com). Có thể đăng nhập ngay bằng tài khoản Facebook hoặc Gmail sẽ nhanh hơn. Để thuận tiện cho việc kiểm soát việc học của các em, các em [điền thông tin đăng nhập vào form này](https://drive.google.com/open?id=1vZFQnoB2N8z_9tf54WIlX_30CI9bWdMWDvZiXWq3ylw) (*bắt buộc*).
 
 Thuật toán và lập trình là kĩ năng cơ bản của thời đại công nghệ, nếu có nền tảng tốt các em sẽ có cơ hội phát triển cao hơn ở các bậc học sau này. Cô hy vọng các em tìm được niềm vui trong quá trình học thuật toán và lập trình, đừng quá lo lắng về điểm số. Trong quá trình học lập trình cơ bản, các em có thể ít nhiều gặp khó khăn, nhưng hãy bình tâm, dành thời gian suy nghĩ thêm, làm lại các bài tập (tốt nhất là theo thứ tự mà cô đề xuất).  
 
@@ -101,9 +101,10 @@ Các em có thể hỏi về các nội dung liên quan qua [facebook của cô]
 
 * [Lí thuyết kiểu mảng 1 chiều, 2 chiều](http://thomasabc.xyz/posts/kieu-mang/)
 
-* [Video bài giảng mảng 1 chiều](https://youtu.be/5bazasTqi3E)
 
 ### 4.1. Mảng một chiều
+
+[Video bài giảng mảng 1 chiều](https://youtu.be/5bazasTqi3E)
 
 [Link bài tập tối thiểu](https://www.hackerrank.com/mang-mot-chieu)
 
@@ -137,3 +138,4 @@ Các em có thể hỏi về các nội dung liên quan qua [facebook của cô]
 * LOWERMATRIX
 * TRANSPOSE
 
+## 5. Kiểu xâu kí tự (string)
