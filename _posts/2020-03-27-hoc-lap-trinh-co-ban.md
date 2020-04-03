@@ -137,5 +137,10 @@ Các em có thể hỏi về các nội dung liên quan qua [facebook của cô]
 * UPPERMATRIX
 * LOWERMATRIX
 * TRANSPOSE
+* **AMATRIX (bài tập thêm)**
+* **MATRIXADD (bài tập thêm)**
+* **MATRIXMUL (bài tập thêm)**
+* **MATRIX (bài tập thêm)**
+* **BINARYMATRIX (bài tập thêm)**
 
 ## 5. Kiểu xâu kí tự (string)
