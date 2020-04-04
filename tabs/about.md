@@ -13,15 +13,11 @@ Từ khi trăng là nguyệt em mang tim bối rối
 
 Từ khi trăng là nguyệt tôi như từng cánh diều vui
 
-Từ khi em là nguyệt trong tôi có những mặt trời.
-
-\
+Từ khi em là nguyệt trong tôi có những mặt trời. \
 
 Từ đêm khuya khi nắng sớm hay trong những cơn mưa
 
-Từ bao la em đã đến xua tan những nghi ngờ.
-
-\
+Từ bao la em đã đến xua tan những nghi ngờ. \
 
 Từ trăng xưa là nguyệt lòng tôi có đôi khi
 
