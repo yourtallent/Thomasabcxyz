@@ -130,6 +130,23 @@ Các em có thể hỏi về các nội dung liên quan qua [facebook của cô]
 
 [Link bài tập tối thiểu](https://www.hackerrank.com/mang-hai-chieu)
 
+*Lưu ý: đối với khai báo mảng trong hàm main, sẽ có vấn đề về bộ nhớ nếu số lượng phần tử mảng quá lớn (quá 10^6), bởi vậy khi khai báo mảng (1 hoặc 2 chiều, các em nên khai báo bên ngoài hàm main. Ví dụ:
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
+
+const int maxN=1000;
+int A[maxN][maxN];
+
+int main(){
+  //Nếu khai báo trong hàm main thế này sẽ lỗi bởi số lượng phần tử cho 1 mảng quá nhiều gây lỗi bộ nhớ
+  int N; cin >> N;
+  int a[N][N];
+  
+}
+```
+*
+
 * 2DARRAY
 * MATRIXSUM
 * MAINDIAGONAL
