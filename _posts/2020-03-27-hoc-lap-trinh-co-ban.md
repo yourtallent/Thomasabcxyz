@@ -140,7 +140,7 @@ const int maxN=1000;
 int A[maxN][maxN];
 
 int main(){
-  //Nếu khai báo trong hàm main thế này sẽ lỗi bởi số lượng phần tử cho 1 mảng quá nhiều gây lỗi bộ nhớ
+  //Nếu khai báo trong hàm main thế này sẽ lỗi
   int N; cin >> N;
   int a[N][N];
   
