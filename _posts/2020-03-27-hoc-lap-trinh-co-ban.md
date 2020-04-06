@@ -160,5 +160,6 @@ int main(){
 * **MATRIXMUL (bài tập thêm)**
 * **MATRIX (bài tập thêm)**
 * **BINARYMATRIX (bài tập thêm)**
+* **CARO (bài tập thêm)**
 
 ## 5. Kiểu xâu kí tự (string)
