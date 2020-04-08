@@ -15,6 +15,8 @@ Những bài tập các em làm rồi, các em không nhất thiết phải làm
 
 Các em có thể hỏi về các nội dung liên quan qua [facebook của cô](https://www.facebook.com/hoang.ha.3914). Các em có thể trao đổi với nhau, hướng dẫn nhau học, tuy nhiên với mục đích để hiểu và sau đó tự mình làm được.
 
+**Trong quá trình học bài, làm bài nếu có gặp vấn đề gì thì đừng ngại hỏi cô hoặc hỏi bạn; có người chỉ dẫn các em sẽ bớt khó khăn**
+
 # Danh sách bài tập thực hành
 
 ## 1. Kiểu dữ liệu, biến, hằng, phép gán, phép toán
