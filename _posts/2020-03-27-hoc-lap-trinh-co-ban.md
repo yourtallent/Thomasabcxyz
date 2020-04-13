@@ -164,4 +164,15 @@ int main(){
 * **BINARYMATRIX (bài tập thêm)**
 * **CARO (bài tập thêm)**
 
-## 5. Kiểu xâu kí tự (string)
+## 5. Hàm (Functions)
+
+### 5.1. Sử dụng hàm có sẵn trong thư viện
+
+[Video bài giảng hàm P1](https://youtu.be/7BkGPlVgw-8)
+
+* UPPERLOWER
+* TOLOWER
+* COUNTABCDEF
+* COUNTAZ
+
+### 5.2. Hàm do người dùng tự định nghĩa
