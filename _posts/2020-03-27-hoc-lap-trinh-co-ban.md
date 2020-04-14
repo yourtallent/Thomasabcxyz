@@ -170,6 +170,8 @@ int main(){
 
 [Video bài giảng hàm P1](https://youtu.be/7BkGPlVgw-8)
 
+[Lí thuyết hàm](http://thomasabc.xyz/posts/ham-function/)
+
 Do có chút vấn đề trên Hackerrank nên cô phải đưa 4 bài Hàm (P1) vào thành bài 8, 9, 10, 11 của phần Cơ bản 1. Các em vào làm ở link dưới đây.
 
 [Link bài tập hàm P1](https://www.hackerrank.com/co-ban-1)
@@ -177,6 +179,6 @@ Do có chút vấn đề trên Hackerrank nên cô phải đưa 4 bài Hàm (P1)
 * UPPERLOWER
 * TOLOWER
 * COUNTABCDEF
-* COUNTAZ
+* **COUNTAZ (bài tập làm thêm)**
 
 ### 5.2. Hàm do người dùng tự định nghĩa
