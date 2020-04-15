@@ -211,7 +211,7 @@ Ví dụ: biến g là biến toàn cục, có thể được sử dụng trong 
 ```cpp
 int g;
 void Xuli(){
-	g++;
+  g++;
 }
 int main (){
   int a, b;
@@ -220,7 +220,7 @@ int main (){
   Xuli();
   g = a + b;
   cout << g;
- return 0;
+  return 0;
 }
 ```
 Một chương trình có thể có các biến toàn cục và biến cục bộ cùng tên với nhau, nhưng trong một hàm thì giá trị của biến cục bộ sẽ được ưu tiên.
