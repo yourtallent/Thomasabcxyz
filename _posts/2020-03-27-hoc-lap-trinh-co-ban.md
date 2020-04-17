@@ -182,3 +182,10 @@ Do có chút vấn đề trên Hackerrank nên cô phải đưa 4 bài Hàm (P1)
 * **COUNTAZ (bài tập làm thêm)**
 
 ### 5.2. Hàm do người dùng tự định nghĩa
+
+* [Video bài giảng: cách viết và sử dụng hàm](https://youtu.be/3v9g50A5VQU)
+* [Video bài giảng: cách truyền tham số cho hàm](https://youtu.be/jxyPtkiNHS4)
+* [Video bài giảng: cách truyền tham số là mảng cho hàm](https://youtu.be/GHhPvj_hkyg)
+* [Video bài giảng: Biến cục bộ và biến toàn cục](https://youtu.be/F7URg7dTlz4)
+
+
