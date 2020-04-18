@@ -188,4 +188,17 @@ Do có chút vấn đề trên Hackerrank nên cô phải đưa 4 bài Hàm (P1)
 * [Video bài giảng: cách truyền tham số là mảng cho hàm](https://youtu.be/GHhPvj_hkyg)
 * [Video bài giảng: Biến cục bộ và biến toàn cục](https://youtu.be/F7URg7dTlz4)
 
+[Link bài tập hàm P2](https://www.hackerrank.com/co-ban-1)
 
+* CONG
+* MAXI
+* TRAODOI
+* CUBE
+* ISEVEN
+* CIRCLE
+* ISPRIME
+* ISPERFECT
+* FACT
+* FUNC
+* **SEARCHFORX (bài tập làm thêm)**
+* **RUTGONPS (bài tập làm thêm)**
