@@ -142,7 +142,7 @@ const int maxN=1000;
 int A[maxN][maxN];
 
 int main(){
-  //Nếu khai báo trong hàm main thế này sẽ lỗi
+  //Không nên khai báo trong hàm main thế này
   int N; cin >> N;
   int a[N][N];
   
