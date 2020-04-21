@@ -202,3 +202,4 @@ Do có chút vấn đề trên Hackerrank nên cô phải đưa 4 bài Hàm (P1)
 * FUNC
 * **SEARCHFORX (bài tập làm thêm)**
 * **RUTGONPS (bài tập làm thêm)**
+* **Trò chơi Tic-Tac-Toe (bài tập làm thêm)** [Đề và nộp bài này ở đây - bạn phải có tài khoản ở Codeforces](https://codeforces.com/group/bDOIjJTvcH/contest/275680/problem/C)
