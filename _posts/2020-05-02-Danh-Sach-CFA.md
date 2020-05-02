@@ -3,6 +3,13 @@ title: "Bài tập luyện tập CF-A"
 categories: [Học thuật toán, học lập trình, C++]
 tags: [CFA]
 ---
+
+## Hướng dẫn tự luyện tập thuật toán và lập trình
+
+Dưới đây là danh sách có thứ tự các bài tập được lựa chọn từ trang codeforces, được sắp xếp theo thứ tự tăng dần về độ khó. Danh sách này gồm các bài tập mức độ Div2-A, gồm các bài toán đơn giản. Học sinh làm bài theo thứ tự này và có thể tự điều chỉnh (bỏ qua một số bài) nếu thấy bài quá dễ so với mức năng lực của mình. Tuy nhiên, tốt hơn hãy làm theo thứ tự với tốc độ nhanh nhất có thể.
+
+Trong quá trình làm bài, hãy ghi lại những lưu ý, những kĩ thuật mà mình mới học được qua từng bài.
+
 1. [CF-A.1. Vanya and Fence](http://thomasabc.xyz/posts/CF-A1)
 2. [CF-A.2. Anton and Danik](http://thomasabc.xyz/posts/CF-A2)
 3. [CF-A.3. Bear and Big Brother](http://thomasabc.xyz/posts/CF-A3)
