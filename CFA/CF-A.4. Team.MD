@@ -1,0 +1,28 @@
+---
+title: "Bài tập luyện tập CF-A-1"
+categories: [Học thuật toán, học lập trình, C++]
+tags: [học thuật toán và lập trình]
+---
+# CF-A.4. Team
+
+([http://codeforces.com/contest/231/problem/A](http://codeforces.com/contest/231/problem/A) )
+
+Bộ ba bạn thân Petya, Vasya và Tonya rủ nhau thành lập đội tham gia cuộc thi ACM. Các thành viên phải giải một số bài toán trong thời gian diễn ra cuộc thi. Trước khi cuộc thi diễn ra, ba bạn phải quyết định: sẽ cài đặt bài toán nào mà ít nhất hai trong ba người chắc chắn phương án giải quyết, ngược lại thì bài toán đó chưa được cài đặt.
+
+Cuộc thi gồm có n bài tập. Với mỗi bài tập, ta biết chắc ai là người có thể giải quyết được. Hãy xác định giúp họ xem: họ có thể cài đặt được bao nhiêu bài toán?
+
+Input:
+
+- Dòng đầu ghi số nguyên n duy nhất (1 ≤ _n_ ≤ 1000)
+- N dòng tiếp theo mỗi dòng ghi ba số nguyên (mỗi số có thể là 0 hoặc 1) theo thứ tự là khả năng giải quyết bài toán của Petya, Vasya và Tonya; số 0 thể hiện là không giải được, số 1 thể hiện giải được.
+
+Output:
+
+- In ra một số nguyên duy nhất là số lượng bài cả đội sẽ giải được.
+
+Ví dụ:
+
+| **Input** | **Output** |
+| --- | --- |
+| 31 1 01 1 11 0 0 | 2 |
+| 21 0 00 1 1 | 1 |

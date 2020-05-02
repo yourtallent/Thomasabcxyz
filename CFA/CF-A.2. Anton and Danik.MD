@@ -1,0 +1,27 @@
+---
+title: "Bài tập luyện tập CF-A-1"
+categories: [Học thuật toán, học lập trình, C++]
+tags: [học thuật toán và lập trình]
+---
+# CF-A.2. Anton and Danik
+
+([http://codeforces.com/contest/734/problem/A](http://codeforces.com/contest/734/problem/A) )
+
+Anton và Danik đều thích chơi cờ. Họ chơi n ván cờ, mỗi ván cờ họ ghi lại ai là người chiến thắng – Anton hay Danik. Không có ván nào là hòa cả. Bạn hãy giúp họ xác định xem ai là người thắng chung cuộc?
+
+Input:
+
+- Dòng đầu ghi số nguyên N (1 ≤ _n_ ≤ 100 000)
+- Dòng thứ hai ghi một xâu kí tự gồm N kí tự (chỉ có thể là &#39;A&#39; hoặc &#39;D&#39;) thể hiện người thắng cuộc trong n ván cờ.
+
+Output:
+
+- Ghi &#39;Anton&#39; nếu Anton thắng nhiều ván cờ hơn, ngược lại ghi &#39;Danik&#39;; nếu hai người cùng thắng số ván bằng nhau, ghi &#39;Friendship&quot;
+
+Ví dụ:
+
+| **Input** | **Output** |
+| --- | --- |
+| 6ADAAAA | Anton |
+| 7DDDAADA | Danik |
+| 6DADADA | Friendship |
