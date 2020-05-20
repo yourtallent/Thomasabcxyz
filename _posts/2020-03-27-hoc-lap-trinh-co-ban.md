@@ -15,8 +15,6 @@ Những bài tập các em làm rồi, các em không nhất thiết phải làm
 
 Các em có thể hỏi về các nội dung liên quan qua [facebook của cô](https://www.facebook.com/hoang.ha.3914). Các em có thể trao đổi với nhau, hướng dẫn nhau học, tuy nhiên với mục đích để hiểu và sau đó tự mình làm được.
 
-**Trong quá trình học bài, làm bài nếu có gặp vấn đề gì thì đừng ngại hỏi cô hoặc hỏi bạn; có người chỉ dẫn các em sẽ bớt khó khăn**
-
 # Danh sách bài tập thực hành
 
 ## 1. Kiểu dữ liệu, biến, hằng, phép gán, phép toán
@@ -203,3 +201,39 @@ Do có chút vấn đề trên Hackerrank nên cô phải đưa 4 bài Hàm (P1)
 * **SEARCHFORX (bài tập làm thêm)**
 * **RUTGONPS (bài tập làm thêm)**
 * **Trò chơi Tic-Tac-Toe (bài tập làm thêm)** [Đề và nộp bài này ở đây - bạn phải có tài khoản ở Codeforces](https://codeforces.com/group/bDOIjJTvcH/contest/275680/problem/C)
+
+### 5.3. Hàm đệ quy
+
+Hàm trong ngôn ngữ lập trình có thể được gọi từ nhiều vị trí khác nhau, có lời gọi hàm từ một hàm khác như:
+```cpp
+int Cong(int a, int b){
+  return a+b;
+}
+int main(){
+  cout << Cong(3,9) << endl;
+  cout << Cong(12,-2);
+  return 0;
+}
+```
+Hay cũng có thể trong một hàm chứa lời gọi đến chính hàm đó như ví dụ sau. Hàm giaithua(n) trả về giá trị n!
+```cpp
+long long giaithua(int n){
+  if (n<=1) return 1;
+  else n*giaithua(n-1);
+}
+```
+Hàm chứa lời gọi đến chính nó gọi là hàm đệ quy.
+
+[Danh sách bài tập luyện tập hàm đệ quy]()
+
+* FACT
+* INHELLO
+* FIBO1
+* EXPO
+* FASTEXP
+* GCD
+* PRINTARR
+* CKN
+* MAXIMUM **(Làm thêm)**
+* BINARYSEARCH **(Làm thêm)**
+* HANOITOWER **(Làm thêm)**
