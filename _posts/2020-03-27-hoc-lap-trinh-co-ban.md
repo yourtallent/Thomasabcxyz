@@ -224,7 +224,7 @@ long long giaithua(int n){
 ```
 Hàm chứa lời gọi đến chính nó gọi là hàm đệ quy.
 
-[Danh sách bài tập luyện tập hàm đệ quy]()
+[Danh sách bài tập luyện tập hàm đệ quy](https://www.hackerrank.com/ham-de-quy)
 
 * FACT
 * INHELLO
