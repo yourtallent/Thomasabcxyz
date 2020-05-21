@@ -204,26 +204,6 @@ Do có chút vấn đề trên Hackerrank nên cô phải đưa 4 bài Hàm (P1)
 
 ### 5.3. Hàm đệ quy
 
-Hàm trong ngôn ngữ lập trình có thể được gọi từ nhiều vị trí khác nhau, có lời gọi hàm từ một hàm khác như:
-```cpp
-int Cong(int a, int b){
-  return a+b;
-}
-int main(){
-  cout << Cong(3,9) << endl;
-  cout << Cong(12,-2);
-  return 0;
-}
-```
-Hay cũng có thể trong một hàm chứa lời gọi đến chính hàm đó như ví dụ sau. Hàm giaithua(n) trả về giá trị n!
-```cpp
-long long giaithua(int n){
-  if (n<=1) return 1;
-  else n*giaithua(n-1);
-}
-```
-Hàm chứa lời gọi đến chính nó gọi là hàm đệ quy.
-
 [Danh sách bài tập luyện tập hàm đệ quy](https://www.hackerrank.com/ham-de-quy)
 
 * FACT
