@@ -219,11 +219,10 @@ Do có chút vấn đề trên Hackerrank nên cô phải đưa 4 bài Hàm (P1)
 * HANOITOWER **(Làm thêm)**
 
 ## Các thuật toán cơ bản
-* [Video hướng dẫn thuật toán]()
-* [Bài tập luyện tập]()
+[Video hướng dẫn thuật toán]()
 
-* ERATOS
-* SELECTIONSORT
-* SELECTIONSORT1
-* BUBBLESORT
+* [ERATOS](https://www.hackerrank.com/contests/ham-de-quy/challenges/eratos-ttcb)
+* [SELECTIONSORT](https://www.hackerrank.com/contests/ham-de-quy/challenges/selectionsort-ttcb)
+* [SELECTIONSORT1](https://www.hackerrank.com/contests/ham-de-quy/challenges/selectionsort1-ttcb)
+* [BUBBLESORT](https://www.hackerrank.com/contests/ham-de-quy/challenges/bubblesort-ttcb)
 * [INSERTIONSORT](https://www.hackerrank.com/contests/ham-de-quy/challenges/insertionsort-ttcb)
