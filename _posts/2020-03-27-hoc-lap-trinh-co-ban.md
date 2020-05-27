@@ -217,3 +217,13 @@ Do có chút vấn đề trên Hackerrank nên cô phải đưa 4 bài Hàm (P1)
 * MAXIMUM **(Làm thêm)**
 * BINARYSEARCH **(Làm thêm)**
 * HANOITOWER **(Làm thêm)**
+
+## Các thuật toán cơ bản
+* [Video hướng dẫn thuật toán]()
+* [Bài tập luyện tập]()
+
+* ERATOS
+* SELECTIONSORT
+* SELECTIONSORT1
+* BUBBLESORT
+* [INSERTIONSORT](https://www.hackerrank.com/contests/ham-de-quy/challenges/insertionsort-ttcb)
