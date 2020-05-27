@@ -220,7 +220,7 @@ Do có chút vấn đề trên Hackerrank nên cô phải đưa 4 bài Hàm (P1)
 * BINARYSEARCH **(Làm thêm)**
 * HANOITOWER **(Làm thêm)**
 
-## 6.Các thuật toán cơ bản
+## 6. Các thuật toán cơ bản
 
 [Video hướng dẫn thuật toán]()
 [Danh sách bài tập](https://www.hackerrank.com/ham-de-quy/)
