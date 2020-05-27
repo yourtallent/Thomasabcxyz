@@ -223,9 +223,10 @@ Do có chút vấn đề trên Hackerrank nên cô phải đưa 4 bài Hàm (P1)
 ## 6.Các thuật toán cơ bản
 
 [Video hướng dẫn thuật toán]()
+[Danh sách bài tập](https://www.hackerrank.com/ham-de-quy/)
 
-* [ERATOS](https://www.hackerrank.com/contests/ham-de-quy/challenges/eratos-ttcb)
-* [SELECTIONSORT](https://www.hackerrank.com/contests/ham-de-quy/challenges/selectionsort-ttcb)
-* [SELECTIONSORT1](https://www.hackerrank.com/contests/ham-de-quy/challenges/selectionsort1-ttcb)
-* [BUBBLESORT](https://www.hackerrank.com/contests/ham-de-quy/challenges/bubblesort-ttcb)
-* [INSERTIONSORT](https://www.hackerrank.com/contests/ham-de-quy/challenges/insertionsort-ttcb)
+* ERATOS
+* SELECTIONSORT
+* SELECTIONSORT1
+* BUBBLESORT
+* INSERTIONSORT
