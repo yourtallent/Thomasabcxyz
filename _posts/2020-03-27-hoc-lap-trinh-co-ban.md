@@ -206,6 +206,8 @@ Do có chút vấn đề trên Hackerrank nên cô phải đưa 4 bài Hàm (P1)
 
 [Danh sách bài tập luyện tập hàm đệ quy](https://www.hackerrank.com/ham-de-quy)
 
+[Video bài giảng hàm đệ quy]()
+
 * FACT
 * INHELLO
 * FIBO1
@@ -219,6 +221,7 @@ Do có chút vấn đề trên Hackerrank nên cô phải đưa 4 bài Hàm (P1)
 * HANOITOWER **(Làm thêm)**
 
 ## Các thuật toán cơ bản
+
 [Video hướng dẫn thuật toán]()
 
 * [ERATOS](https://www.hackerrank.com/contests/ham-de-quy/challenges/eratos-ttcb)
