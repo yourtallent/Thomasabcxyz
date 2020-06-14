@@ -231,3 +231,11 @@ Do có chút vấn đề trên Hackerrank nên cô phải đưa 4 bài Hàm (P1)
 * SELECTIONSORT1
 * BUBBLESORT
 * INSERTIONSORT
+
+## 7. Ôn kiểm tra học kì 2
+
+* COMPARE
+* ONES
+* HEXA
+* KPRIME
+* COCKTAILSORT
