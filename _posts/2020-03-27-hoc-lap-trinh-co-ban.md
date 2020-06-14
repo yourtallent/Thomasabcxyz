@@ -234,7 +234,7 @@ Do có chút vấn đề trên Hackerrank nên cô phải đưa 4 bài Hàm (P1)
 
 ## 7. Ôn kiểm tra học kì 2
 
-[Danh sách bài tập: bài 17, 18, 19, 20, 21](https://www.hackerrank.com/ham-de-quy/)
+[Danh sách bài tập](https://www.hackerrank.com/ham-de-quy/)
 
 * COMPARE
 * ONES
