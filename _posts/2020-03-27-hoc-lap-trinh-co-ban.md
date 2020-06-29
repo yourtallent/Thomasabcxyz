@@ -232,7 +232,7 @@ Do có chút vấn đề trên Hackerrank nên cô phải đưa 4 bài Hàm (P1)
 * BUBBLESORT
 * INSERTIONSORT
 
-## 7. Ôn kiểm tra học kì 2
+## 7. Kiểm tra HK2
 
 [Danh sách bài tập](https://www.hackerrank.com/ham-de-quy/)
 
