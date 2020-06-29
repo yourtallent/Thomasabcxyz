@@ -241,3 +241,33 @@ Do có chút vấn đề trên Hackerrank nên cô phải đưa 4 bài Hàm (P1)
 * HEXA
 * KPRIME
 * COCKTAILSORT
+
+## 8. Kiểu xâu kí tự - string
+
+## 9. Kiểu cấu trúc - struct
+
+## 10. Tìm kiếm và sắp xếp
+
+Cho mô tả thuật toán, yêu cầu cài đặt thành chương trình hoàn chỉnh. Thực hành đánh giá thuật toán các thuật toán đơn giản.
+
+1. Sắp xếp nổi bọt
+2. Sắp xếp chọn
+3. Sắp xếp chèn
+4. Sắp xếp trộn
+5. Sắp xếp nhanh
+6. Cocktail Sort
+7. Sắp xếp trộn hai đường
+8. 
+
+## 11. Thư viện STL C++
+Pair
+Vector
+List
+Dequeue
+Queue
+Priority Queue
+Stack
+Set - Multiset
+Map - Multimap
+Sort
+Search
