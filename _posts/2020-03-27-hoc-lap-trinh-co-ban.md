@@ -260,14 +260,14 @@ Cho mô tả thuật toán, yêu cầu cài đặt thành chương trình hoàn 
 8. 
 
 ## 11. Thư viện STL C++
-Pair
-Vector
-List
-Dequeue
-Queue
-Priority Queue
-Stack
-Set - Multiset
-Map - Multimap
-Sort
-Search
+* Pair
+* Vector
+* List
+* Dequeue
+* Queue
+* Priority Queue
+* Stack
+* Set - Multiset
+* Map - Multimap
+* Sort STL
+* Search STL
