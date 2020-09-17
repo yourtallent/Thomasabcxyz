@@ -39,6 +39,8 @@ Các em có thể hỏi về các nội dung liên quan qua [facebook của cô]
 
 [Link bài tập tối thiểu](http://codeforces.com/group/EJ0k8l1752/contest/294730)
 
+[Link bài tập làm thêm - Sheet1](https://docs.google.com/spreadsheets/d/1he8I1l0zzBN4F6jcgpQtdqzzCUo61jExpUlBXfx45-k/edit?usp=sharing)
+
 * MAX2
 * CHANLE
 * AMDUONG
@@ -49,8 +51,6 @@ Các em có thể hỏi về các nội dung liên quan qua [facebook của cô]
 * DAY
 * DIGIT
 
-[Link bài tập làm thêm - Sheet1](https://docs.google.com/spreadsheets/d/1he8I1l0zzBN4F6jcgpQtdqzzCUo61jExpUlBXfx45-k/edit?usp=sharing)
-
 ## 3. Cấu trúc lặp
 
 [Lí thuyết cấu trúc lặp](http://thomasabc.xyz/posts/cau-truc-lap/)
@@ -58,6 +58,8 @@ Các em có thể hỏi về các nội dung liên quan qua [facebook của cô]
 ### 3.1. Lặp P1
 
 [Link bài tập tối thiểu](http://codeforces.com/group/EJ0k8l1752/contest/294766)
+
+[Link bài tập làm thêm - Sheet1](https://docs.google.com/spreadsheets/d/1he8I1l0zzBN4F6jcgpQtdqzzCUo61jExpUlBXfx45-k/edit?usp=sharing)
 
 * 1TON
 * ATOB
@@ -74,6 +76,3 @@ Các em có thể hỏi về các nội dung liên quan qua [facebook của cô]
 * SOHOANHAO
 * NGUYENTO
 * MAXX
-
-[Link bài tập làm thêm - Sheet2](https://docs.google.com/spreadsheets/d/1he8I1l0zzBN4F6jcgpQtdqzzCUo61jExpUlBXfx45-k/edit?usp=sharing)
-
