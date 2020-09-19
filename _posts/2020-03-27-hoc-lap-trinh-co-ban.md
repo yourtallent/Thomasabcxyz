@@ -76,3 +76,201 @@ Các em có thể hỏi về các nội dung liên quan qua [facebook của cô]
 * SOHOANHAO
 * NGUYENTO
 * MAXX
+### 3.2. Lặp P2
+
+[Link bài tập tối thiểu](https://www.hackerrank.com/cau-truc-lap-2)
+
+* DAONGUOC
+* AMSTRONG
+* SODAONGUOC
+* PALINDROME
+* DOCSO
+* **VIETBANGCHU (Bài tập thêm)**
+
+### 3.3. Lặp P3
+
+[Link bài tập tối thiểu](https://www.hackerrank.com/cau-truc-lap-3)
+
+* LKNGUYENTO
+* LKSOHOANHAO
+* LKAMSTRONG
+* SQUARESTARS
+* HOLLOWSTARS
+* RTRIANGLE
+* LTRIANGLE
+* RETRIANGLE
+* LETRIANGLE
+
+## 4. Kiểu mảng
+
+* [Lí thuyết kiểu mảng 1 chiều, 2 chiều](http://thomasabc.xyz/posts/kieu-mang/)
+
+
+### 4.1. Mảng một chiều
+
+[Video bài giảng mảng 1 chiều](https://youtu.be/5bazasTqi3E)
+
+[Link bài tập tối thiểu](https://www.hackerrank.com/mang-mot-chieu)
+
+* REVERSE
+* SUMATION
+* SUMODDS
+* REPLACEMENT
+* FINDMAX
+* POSITION
+* FIRSTLAST
+* SWAPMINMAX
+* MAXPAIR
+* INSERTX
+* DECTOBIN
+* SEARCHING
+* **DELETEX (Bài tập làm thêm)**
+* **SELECTIONSORT (Bài tập làm thêm)**
+
+### 4.2. Mảng hai chiều
+
+[Video bài giảng mảng 2 chiều](https://youtu.be/BQqBoKbxAOE)
+
+[Link bài tập tối thiểu](https://www.hackerrank.com/mang-hai-chieu)
+
+Các em nên khai báo các mảng bên ngoài hàm main. Như ví dụ:
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
+
+//Nên khai báo như thế này
+const int maxN=1000;
+int A[maxN][maxN];
+
+int main(){
+  //Không nên khai báo trong hàm main thế này
+  int N; cin >> N;
+  int a[N][N];
+  
+}
+```
+
+* 2DARRAY
+* MATRIXSUM
+* MAINDIAGONAL
+* MINORDIAGONAL
+* SWAPDIAGONAL
+* UPPERMATRIX
+* LOWERMATRIX
+* TRANSPOSE
+* **AMATRIX (bài tập thêm)**
+* **MATRIXADD (bài tập thêm)**
+* **MATRIXMUL (bài tập thêm)**
+* **MATRIX (bài tập thêm)**
+* **BINARYMATRIX (bài tập thêm)**
+* **CARO (bài tập thêm)**
+
+## 5. Hàm (Functions)
+
+### 5.1. Sử dụng hàm có sẵn trong thư viện
+
+[Video bài giảng hàm P1](https://youtu.be/7BkGPlVgw-8)
+
+[Lí thuyết hàm](http://thomasabc.xyz/posts/ham-function/)
+
+Do có chút vấn đề trên Hackerrank nên cô phải đưa 4 bài Hàm (P1) vào thành bài 8, 9, 10, 11 của phần Cơ bản 1. Các em vào làm ở link dưới đây.
+
+[Link bài tập hàm P1](https://www.hackerrank.com/co-ban-1)
+
+* UPPERLOWER
+* TOLOWER
+* COUNTABCDEF
+* **COUNTAZ (bài tập làm thêm)**
+
+### 5.2. Hàm do người dùng tự định nghĩa
+
+* [Video bài giảng: cách viết và sử dụng hàm](https://youtu.be/3v9g50A5VQU)
+* [Video bài giảng: cách truyền tham số cho hàm](https://youtu.be/jxyPtkiNHS4)
+* [Video bài giảng: cách truyền tham số là mảng cho hàm](https://youtu.be/GHhPvj_hkyg)
+* [Video bài giảng: Biến cục bộ và biến toàn cục](https://youtu.be/F7URg7dTlz4)
+
+[Link bài tập hàm P2](https://www.hackerrank.com/co-ban-1)
+
+* CONG
+* MAXI
+* TRAODOI
+* CUBE
+* ISEVEN
+* CIRCLE
+* ISPRIME
+* ISPERFECT
+* FACT
+* FUNC
+* **SEARCHFORX (bài tập làm thêm)**
+* **RUTGONPS (bài tập làm thêm)**
+* **Trò chơi Tic-Tac-Toe (bài tập làm thêm)** [Đề và nộp bài này ở đây - bạn phải có tài khoản ở Codeforces](https://codeforces.com/group/bDOIjJTvcH/contest/275680/problem/C)
+
+### 5.3. Hàm đệ quy
+
+[Danh sách bài tập luyện tập hàm đệ quy](https://www.hackerrank.com/ham-de-quy)
+
+[Video bài giảng hàm đệ quy]()
+
+* FACT
+* INHELLO
+* FIBO1
+* EXPO
+* FASTEXP
+* GCD
+* PRINTARR
+* CKN
+* MAXIMUM **(Làm thêm)**
+* BINARYSEARCH **(Làm thêm)**
+* HANOITOWER **(Làm thêm)**
+
+## 6. Các thuật toán cơ bản
+
+[Video hướng dẫn thuật toán]()
+
+[Danh sách bài tập](https://www.hackerrank.com/ham-de-quy/)
+
+* ERATOS
+* SELECTIONSORT
+* SELECTIONSORT1
+* BUBBLESORT
+* INSERTIONSORT
+
+## 7. Kiểm tra HK2
+
+[Danh sách bài tập](https://www.hackerrank.com/ham-de-quy/)
+
+* COMPARE
+* ONES
+* HEXA
+* KPRIME
+* COCKTAILSORT
+
+## 8. Kiểu xâu kí tự - string
+
+## 9. Kiểu cấu trúc - struct
+
+## 10. Tìm kiếm và sắp xếp
+
+Cho mô tả thuật toán, yêu cầu cài đặt thành chương trình hoàn chỉnh. Thực hành đánh giá thuật toán các thuật toán đơn giản.
+
+1. Sắp xếp nổi bọt
+2. Sắp xếp chọn
+3. Sắp xếp chèn
+4. Sắp xếp trộn
+5. Sắp xếp nhanh
+6. Cocktail Sort
+7. Sắp xếp trộn hai đường
+8. 
+
+## 11. Thư viện STL C++
+* Pair
+* Vector
+* List
+* Dequeue
+* Queue
+* Priority Queue
+* Stack
+* Set - Multiset
+* Map - Multimap
+* Sort STL
+* Search STL
