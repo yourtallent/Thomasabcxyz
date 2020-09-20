@@ -1,5 +1,0 @@
-﻿{
-  "Description": "Tệp xác minh quyền sở hữu miền cho các Microsoft 365 – nằm ở gốc của trang web",
-  "Domain": "thomasabc.xyz",
-  "Id": "20f8855b-ccac-474c-8cba-f1e0466b0921"
-}
