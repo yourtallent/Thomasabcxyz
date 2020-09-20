@@ -1,5 +1,0 @@
-﻿{
-  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
-  "Domain": "thomasabc.xyz",
-  "Id": "94955eed-4dd4-47a4-859d-e3c42799d4b1"
-}
