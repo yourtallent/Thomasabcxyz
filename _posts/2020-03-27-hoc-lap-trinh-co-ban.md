@@ -78,7 +78,7 @@ Các em có thể hỏi về các nội dung liên quan qua [facebook của cô]
 * MAXX
 ### 3.2. Lặp P2
 
-[Link bài tập tối thiểu](https://www.hackerrank.com/cau-truc-lap-2)
+[Link bài tập tối thiểu](https://codeforces.com/group/EJ0k8l1752/contest/294936)
 
 * DAONGUOC
 * AMSTRONG
@@ -89,7 +89,7 @@ Các em có thể hỏi về các nội dung liên quan qua [facebook của cô]
 
 ### 3.3. Lặp P3
 
-[Link bài tập tối thiểu](https://www.hackerrank.com/cau-truc-lap-3)
+[Link bài tập tối thiểu](https://codeforces.com/group/EJ0k8l1752/contest/294939)
 
 * LKNGUYENTO
 * LKSOHOANHAO
@@ -110,7 +110,7 @@ Các em có thể hỏi về các nội dung liên quan qua [facebook của cô]
 
 [Video bài giảng mảng 1 chiều](https://youtu.be/5bazasTqi3E)
 
-[Link bài tập tối thiểu](https://www.hackerrank.com/mang-mot-chieu)
+[Link bài tập tối thiểu](https://codeforces.com/group/EJ0k8l1752/contest/295380)
 
 * REVERSE
 * SUMATION
@@ -131,7 +131,7 @@ Các em có thể hỏi về các nội dung liên quan qua [facebook của cô]
 
 [Video bài giảng mảng 2 chiều](https://youtu.be/BQqBoKbxAOE)
 
-[Link bài tập tối thiểu](https://www.hackerrank.com/mang-hai-chieu)
+[Link bài tập tối thiểu](https://codeforces.com/group/EJ0k8l1752/contest/295541)
 
 Các em nên khai báo các mảng bên ngoài hàm main. Như ví dụ:
 ```cpp
@@ -173,9 +173,7 @@ int main(){
 
 [Lí thuyết hàm](http://thomasabc.xyz/posts/ham-function/)
 
-Do có chút vấn đề trên Hackerrank nên cô phải đưa 4 bài Hàm (P1) vào thành bài 8, 9, 10, 11 của phần Cơ bản 1. Các em vào làm ở link dưới đây.
-
-[Link bài tập hàm P1](https://www.hackerrank.com/co-ban-1)
+[Link bài tập hàm P1]()
 
 * UPPERLOWER
 * TOLOWER
@@ -189,7 +187,7 @@ Do có chút vấn đề trên Hackerrank nên cô phải đưa 4 bài Hàm (P1)
 * [Video bài giảng: cách truyền tham số là mảng cho hàm](https://youtu.be/GHhPvj_hkyg)
 * [Video bài giảng: Biến cục bộ và biến toàn cục](https://youtu.be/F7URg7dTlz4)
 
-[Link bài tập hàm P2](https://www.hackerrank.com/co-ban-1)
+[Link bài tập hàm P2]()
 
 * CONG
 * MAXI
@@ -207,7 +205,7 @@ Do có chút vấn đề trên Hackerrank nên cô phải đưa 4 bài Hàm (P1)
 
 ### 5.3. Hàm đệ quy
 
-[Danh sách bài tập luyện tập hàm đệ quy](https://www.hackerrank.com/ham-de-quy)
+[Danh sách bài tập luyện tập hàm đệ quy]()
 
 [Video bài giảng hàm đệ quy]()
 
@@ -227,7 +225,7 @@ Do có chút vấn đề trên Hackerrank nên cô phải đưa 4 bài Hàm (P1)
 
 [Video hướng dẫn thuật toán]()
 
-[Danh sách bài tập](https://www.hackerrank.com/ham-de-quy/)
+[Danh sách bài tập]()
 
 * ERATOS
 * SELECTIONSORT
@@ -235,9 +233,9 @@ Do có chút vấn đề trên Hackerrank nên cô phải đưa 4 bài Hàm (P1)
 * BUBBLESORT
 * INSERTIONSORT
 
-## 7. Kiểm tra HK2
+## 7. Luyện tập tổng hợp
 
-[Danh sách bài tập](https://www.hackerrank.com/ham-de-quy/)
+[Danh sách bài tập]()
 
 * COMPARE
 * ONES
