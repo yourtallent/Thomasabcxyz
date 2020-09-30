@@ -11,7 +11,7 @@ Tài khoản đăng nhập: các em phải tạo tài khoản tại trang [Codef
 
 Thuật toán và lập trình là kĩ năng cơ bản của thời đại công nghệ, nếu có nền tảng tốt các em sẽ có cơ hội phát triển cao hơn ở các bậc học sau này. Cô hy vọng các em tìm được niềm vui trong quá trình học thuật toán và lập trình, đừng quá lo lắng về điểm số. Trong quá trình học lập trình cơ bản, các em có thể ít nhiều gặp khó khăn, nhưng hãy bình tâm, dành thời gian suy nghĩ thêm, làm lại các bài tập (tốt nhất là theo thứ tự mà cô đề xuất).  
 
-Những bài tập các em làm rồi, các em không nhất thiết phải làm lại. Nếu bạn nào còn cảm thấy chưa nhớ, chưa sử dụng thành thục được cú pháp ngôn ngữ thì nên làm lại các bài lần lượt từ đầu.
+Những bài tập các em làm rồi, các em không nhất thiết phải làm lại. Nếu bạn nào còn cảm thấy chưa nhớ, chưa sử dụng thành thục được cú pháp ngôn ngữ thì nên làm lại các bài lần lượt từ đầu. Xem [hướng dẫn nộp bài tại đây](https://docs.google.com/document/d/1p0nnMR0nl-DxCYcZCjodmLxDmyrrychlrFMPFLIGpfU/edit?usp=sharing).
 
 Các em có thể hỏi về các nội dung liên quan qua [facebook của cô](https://www.facebook.com/hoang.ha.3914). Các em có thể trao đổi với nhau, hướng dẫn nhau học, tuy nhiên với mục đích để hiểu và sau đó tự mình làm được.
 
