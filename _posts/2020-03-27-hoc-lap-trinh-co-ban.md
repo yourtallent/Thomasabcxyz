@@ -173,7 +173,7 @@ int main(){
 
 [Lí thuyết hàm](http://thomasabc.xyz/posts/ham-function/)
 
-[Link bài tập hàm P1]()
+[Link bài tập hàm P1](https://codeforces.com/group/EJ0k8l1752/contest/297145)
 
 * UPPERLOWER
 * TOLOWER
@@ -187,7 +187,7 @@ int main(){
 * [Video bài giảng: cách truyền tham số là mảng cho hàm](https://youtu.be/GHhPvj_hkyg)
 * [Video bài giảng: Biến cục bộ và biến toàn cục](https://youtu.be/F7URg7dTlz4)
 
-[Link bài tập hàm P2]()
+[Link bài tập hàm P2](https://codeforces.com/group/EJ0k8l1752/contest/297146)
 
 * CONG
 * MAXI
@@ -205,7 +205,7 @@ int main(){
 
 ### 5.3. Hàm đệ quy
 
-[Danh sách bài tập luyện tập hàm đệ quy]()
+[Danh sách bài tập luyện tập hàm đệ quy](https://codeforces.com/group/EJ0k8l1752/contest/297147)
 
 [Video bài giảng hàm đệ quy]()
 
