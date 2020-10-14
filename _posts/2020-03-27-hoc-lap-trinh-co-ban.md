@@ -133,23 +133,6 @@ Các em có thể hỏi về các nội dung liên quan qua [facebook của cô]
 
 [Link bài tập tối thiểu](https://codeforces.com/group/EJ0k8l1752/contest/295541)
 
-Các em nên khai báo các mảng bên ngoài hàm main. Như ví dụ:
-```cpp
-#include <bits/stdc++.h>
-using namespace std;
-
-//Nên khai báo như thế này
-const int maxN=1000;
-int A[maxN][maxN];
-
-int main(){
-  //Không nên khai báo trong hàm main thế này
-  int N; cin >> N;
-  int a[N][N];
-  
-}
-```
-
 * 2DARRAY
 * MATRIXSUM
 * MAINDIAGONAL
@@ -232,16 +215,15 @@ int main(){
 * SELECTIONSORT1
 * BUBBLESORT
 * INSERTIONSORT
-
-## 7. Luyện tập tổng hợp
-
-[Danh sách bài tập]()
-
 * COMPARE
 * ONES
 * HEXA
 * KPRIME
 * COCKTAILSORT
+
+## 7. Luyện tập tổng hợp
+
+[Danh sách bài tập luyện tập CFA1](https://drive.google.com/file/d/1mDmZBtyFaIFOeGlOawgiq1vVJOzHm4Yj/view?usp=sharing)
 
 ## 8. Kiểu xâu kí tự - string
 
